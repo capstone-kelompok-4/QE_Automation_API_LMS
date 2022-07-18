@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Get_Course_by_ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b333d2a-8e83-4516-936e-21f7ba93c6d9</testCaseGuid>
+</TestCaseEntity>

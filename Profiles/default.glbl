@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://capstone-project-4.herokuapp.com'</initValue>
+      <name>base_network</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkYW5ueV9jaG9pQGdtYWlsLmNvbSJ9.R0AX6K5jnQWSxNABsTP0JIHGvSA20Zcdwi-S9na-UgU'</initValue>
+      <name>token_user</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbkBnbWFpbC5jb20ifQ.fQ83qj_M6KKOJxzUI1ojd1daDFAU2oGfITySB-1ftz8'</initValue>
+      <name>token_admin</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

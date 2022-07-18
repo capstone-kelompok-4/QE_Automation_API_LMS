@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Edit_User_by_User_Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>430ba7ed-a503-4e38-8966-c306bd0bbef8</testCaseGuid>
+</TestCaseEntity>
